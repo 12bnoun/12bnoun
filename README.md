@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @12bnoun
-- 👀 I’m interested in Deep Learning, Ethereum, Bitcoin and NFTs.
-- 🌱 I’m currently learning Deep Learning.
-- 💞️ I’m looking to collaborate on Deep Learning and NFT projects.
+- 👀 I’m interested in Deep Learning, Zk-Proofs, Sharding Ethereum, Bitcoin and NFTs.
 - 📫 How to reach me 12bnoun.eth
 
 <!---
