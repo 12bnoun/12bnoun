@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @12bnoun
-- 👀 I’m interested in Deep Learning, Zk-Proofs, Sharding Ethereum, Bitcoin and NFTs.
+- 👀 I’m interested in projects involving Deep Learning (Self-supervised learning), Sharding Ethereum, Mina Protocol, Zk-Proofs, Bitcoin and NFTs.
 - 📫 How to reach me 12bnoun.eth
 
 <!---
